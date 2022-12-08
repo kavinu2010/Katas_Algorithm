@@ -1,5 +1,6 @@
 # Katas_Algorithm
 Run each console app with "JS run" command in the terminal.
+
 1.Climbing Stairs
 You are climbing a staircase. It takes n steps to reach the top.
 
